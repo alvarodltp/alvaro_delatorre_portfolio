@@ -2,7 +2,7 @@
 #
 # Install the MySQL driver
 #   gem install mysql2
-#
+#rails v
 # Ensure the MySQL gem is defined in your Gemfile
 #   gem 'mysql2'
 #
