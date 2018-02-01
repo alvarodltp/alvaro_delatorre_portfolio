@@ -57,4 +57,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'friendly_id', '~> 5.1.0'
 gem 'devise', '~> 4.4', '>= 4.4.1'
 gem 'bootstrap', '~> 4.0.0.alpha6'
-gem 'alvarodelatorre_view_tool', git: 'https://github.com/alvarodltp/alvarodelatorre_view_tool'
+gem 'alvarodelatorre_view_tool', '~> 0.1.0'
