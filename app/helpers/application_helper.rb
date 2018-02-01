@@ -15,5 +15,9 @@ module ApplicationHelper
       content_tag(:p, greeting, class: "source-greeting")
    end
   end
+
+  def copyright_generator
+    AlvaroDeLaTorreViewTool::Renderer.copyright 'Alvaro De La Torre', 'All rights reserved'
+  end
 end
 
